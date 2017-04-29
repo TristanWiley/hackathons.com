@@ -71,18 +71,15 @@ a, a:visited {
 
 #letter {
     max-width: 700px;
-    margin: 10% auto;
+    margin: 1% auto;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
 }
 
-.post-info {
-  color: #999999;
-  font-size: 16px;
-  margin-top: -2em;
-  margin-bottom: 2.5em;
+.header {
+  font-size: 20px;
   text-align: center;
 }
 
